@@ -9,3 +9,5 @@ Dock for Samsung Galaxy Watch Ultra used to fit the charging puck: https://cad.o
 Board Game card and peice holder meant to be laser cut using eigth inch material: https://cad.onshape.com/documents/851c6fd9dcb4b26d50c8485a/w/84863976bc3f2ef9fe82f922/e/a0bd0f2b80f37f3ce2394670
 
 Can holder mean to hold dog food cans and any other typical aluminum preservation can: https://cad.onshape.com/documents/cb8ad0b05853b04064cbd7c0/w/affca7fb812a96366b6dcc24/e/da59a312d25c6c1d1fbef0f8
+
+Simple Trophy Meant for a fun event held by my previous school: https://cad.onshape.com/documents/45530c8847e3f76ce0faae66/w/3b4247cee5573d6527431d46/e/dbcc4a1da57b78a3c1b69f42
